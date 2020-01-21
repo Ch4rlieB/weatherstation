@@ -13,7 +13,7 @@ How to connect and use Sense hat in weatherstation
 DS18B20 sensor can be used for temperature sensing
 * https://charlieblog.eu/clanek-raspberry-pi-meteostanice-ds18b20
 
-MPL3115a2 is for temperatore and atmospheric pressure
+MPL3115a2 is for temperature and atmospheric pressure
 * https://charlieblog.eu/clanek-raspberry-pi-meteostanice-mpl3115a2
 
 DHT22 is the best for humidity
